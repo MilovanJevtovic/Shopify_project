@@ -1,2 +1,2 @@
 # Shopify_project
- https://www.shopify.com/free-trial
+ https://www.shopify.com/free-trial - project
