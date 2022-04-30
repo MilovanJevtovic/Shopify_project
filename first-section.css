@@ -25,12 +25,13 @@ h3 {
     color: white;
     font-weight: normal;
     margin-top: 0;
-    margin-bottom: 18px;
+    margin-bottom: 32px;
 }
 
 .inp-btn {
-    display: flex;
     justify-content: center;
+    margin: 0px 630px;
+    margin-bottom: 8px;
 }
 
 .inp {
@@ -42,11 +43,37 @@ h3 {
     margin-right: 8px;
     border-radius: 6px;
     border: none;
+    font-size: 15px;
+    outline: none;
+    margin-bottom: 8px;
 }
 
 .btn {
     padding: 16px 29px;
     width: 165px;
+    height: 52px;
     margin-left: 8px;
     margin-right: 8px;
+    border-radius: 6px;
+    border: none;
+    background-color: #212326;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+    margin-bottom: 8px;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+.trial {}
+
+.trial-text {
+    display: block;
+    color: white;
+    font-size: 12px;
+    margin-top: 16px;
+    margin-bottom: 32px;
 }
