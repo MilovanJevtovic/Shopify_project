@@ -1,0 +1,52 @@
+.section2 {
+    margin-top: 96px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 328px;
+    margin-right: 328px;
+}
+
+.section2-div {
+    text-align: left;
+    width: 301px;
+    margin-right: 21px;
+}
+
+.section2-div3 {
+    text-align: left;
+    width: 301px;
+}
+
+.section2-icons {
+    width: 45px;
+    height: 45px;
+    margin-bottom: 16px;
+}
+
+.section2-icon1 {
+    width: 41px;
+    height: 38px;
+}
+
+.section2-icon2 {
+    width: 41px;
+    height: 29;
+}
+
+.section2-icon3 {
+    width: 41px;
+    height: 34px;
+}
+
+.section2-title {
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.section2-paragraph {
+    margin: 0px 0px;
+    color: #707C8D;
+    line-height: 25px;
+}
