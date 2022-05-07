@@ -1,0 +1,20 @@
+.section3 {
+    margin: 100px 328px;
+    border-top: 1px solid #D2D5D9;
+    border-bottom: 1px solid #D2D5D9;
+}
+
+.sponsor-icons {
+    width: 90px;
+}
+
+.icons {
+    display: flex;
+    padding: 48px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sponsor-icons-nalota {
+    height: 23.3px;
+}
