@@ -1,0 +1,1 @@
+const shortCut = document.getElementById("shortcut");
