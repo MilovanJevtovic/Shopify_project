@@ -1,0 +1,14 @@
+.section5 {
+    background-color: #FAF9F8;
+}
+
+.section5-container {
+    flex-direction: column;
+    align-items: center;
+    width: 684px;
+    padding: 96px 0px;
+}
+
+.plusic-icon {
+    height: 20px;
+}
