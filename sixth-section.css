@@ -1,0 +1,13 @@
+.section6 {
+    display: flex;
+    justify-content: right;
+    margin: 16px 296px;
+    padding: 0px 32px;
+}
+
+.btn6 {
+    color: #008060;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+}

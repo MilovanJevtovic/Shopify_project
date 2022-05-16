@@ -11,7 +11,7 @@
 .section5-buttons {
     display: flex;
     flex-direction: column;
-    padding: 0px 18px;
+    padding: 0px 0px;
 }
 
 .section5-button {
@@ -43,4 +43,53 @@
     margin-top: 0;
     margin-bottom: 30px;
     color: #004F5D;
+}
+
+.list {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.ul-list {
+    list-style-type: none;
+    text-align: left;
+    padding: 0px 6px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 25px;
+}
+
+.ul-list2 {
+    list-style-type: disc;
+}
+
+.ul-list>* {
+    margin-bottom: 16px;
+}
+
+.ul-list2>* {
+    margin-bottom: 8px;
+}
+
+.link1 {
+    color: #008060;
+}
+
+.link1:hover {
+    text-decoration: none;
+}
+
+.link1:active {
+    background-color: rgba(0, 128, 96, 0.3);
+}
+
+.link2 {
+    color: #008060;
+}
+
+.link2:hover {
+    text-decoration: none;
+}
+
+.link2:active {
+    background-color: rgba(0, 128, 96, 0.3);
 }
